@@ -4,8 +4,8 @@
 }
 
 .colour-border{
-  border: 5px dashed green;
-  padding: 10px;
+  border: 10px ridge green;
+  padding: 15px;
 }
 
 .header{
